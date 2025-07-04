@@ -11,4 +11,4 @@ Sum of Units Sold by Month and Day: A line chart showing daily sales trends over
 Total Sales by Mobile Model: A bar chart comparing sales of different mobile models (iPhone SE, Galaxy S21, OnePlus Nord).
 Transactions by Payment Method: A pie chart illustrating the distribution of payment methods (Credit Card, UPI, Debit Card, Cash).
 Count of Customer Name by Customer Ratings: A horizontal bar chart displaying customer ratings distribution.
-This project has truly shown me the power of data-driven decision-making
+This project has truly shown me the power of data-driven decision-making.
